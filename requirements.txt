@@ -1,9 +1,4 @@
-streamlit
-pandas
-joblib
-scikit-learn
-fastapi
-uvicorn
-pydantic
-requests
-numpy
+streamlit>=1.46.1
+pandas>=2.3.0
+joblib>=1.5.1
+scikit-learn>=1.7.0
